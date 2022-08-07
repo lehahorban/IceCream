@@ -5,4 +5,3 @@ module.exports = {
     },
   },
 };
-console.log(first)
